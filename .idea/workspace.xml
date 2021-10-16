@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43eb5d59-099f-4fa1-a14c-6014eb7c545e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/voiture/C3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voiture/Corsa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voiture/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voiture/decorator/DecoVoiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voiture/decorator/GPS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voiture/decorator/ToitOuvrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoratorMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/BoissonDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/BoissonDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/Caramel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/Caramel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/Chocolat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/Chocolat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/decorator/Lait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/decorator/Lait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Boisson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Boisson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/DoubleCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/DoubleCafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entity/Expresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Expresso.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zbTlgHUrgcH5DwcZgGhUcCp13L" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DecoratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DecoratorMain" />
+      <module name="DecoratorPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DecoratorMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43eb5d59-099f-4fa1-a14c-6014eb7c545e" name="Changes" comment="" />
+      <created>1634415940587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634415940587</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

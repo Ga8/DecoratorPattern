@@ -13,5 +13,7 @@ public abstract class Boisson {
         return description;
     }
 
-
+    public void setDescription(String description) {
+        this.description = description;
+    }
 }

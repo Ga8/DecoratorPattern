@@ -10,4 +10,11 @@ public class Expresso extends Boisson{
     public Double getCout() {
         return 2.0;
     }
+
+    @Override
+    public String toString() {
+        return "Expresso{" +
+            "description='" + description + '\'' +
+            '}';
+    }
 }
